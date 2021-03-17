@@ -3,11 +3,9 @@ PESUIO Intro to ML Project - Challenger USA Space Shuttle O-Ring Data Set
 https://archive.ics.uci.edu/ml/datasets/Challenger+USA+Space+Shuttle+O-Ring
 
 Team number: 2
+
 Team members:
-  Aaditya S Goel
-  Nitish Rathore
-  Taher Dossaji
-  Kumar Abhimanyu
+  Aaditya S Goel, Nitish Rathore, Taher Dossaji, Kumar Abhimanyu 
   
   # Dataset
   On the 28th of January 1986, 17% of the American population tuned in to watch the launch of the Challenger Space Shuttle. What was set to be a moment of great joy, however, turned into one of grief and sorrow. The space shuttle exploded even before it left the Earth's atmosphere. This catastrophe changed the way NASA functioned, forcing them to be more open to scrutiny and advice from the scientific community. But why did this disaster happen?
