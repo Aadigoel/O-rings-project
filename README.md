@@ -9,7 +9,9 @@ Team members:
   
   # Dataset
   On the 28th of January 1986, 17% of the American population tuned in to watch the launch of the Challenger Space Shuttle. What was set to be a moment of great joy, however, turned into one of grief and sorrow. The space shuttle exploded even before it left the Earth's atmosphere. This catastrophe changed the way NASA functioned, forcing them to be more open to scrutiny and advice from the scientific community. But why did this disaster happen?
+  
   An investigating committee called the 'Rogers Commission' led by Richard Feynman took up responsibility to find what caused this accident. They found that there are strong engineering reasons based on the composition of O-rings of the shuttle's booster propulsion system to support the judgment that failure probability may rise monotonically as temperature drops. One other variable, the pressure s at which safety testing for field join leaks was performed, was available, but its relevance to the failure process was unclear.
+  
   No previous liftoff temperature was under 53 degrees F. Although tremendous extrapolation must be done from the given data to assess risk at 31 degrees F, it is obvious even to the layman "to foresee the unacceptably high risk created by launching at 31 degrees F".
   
   # Model
@@ -34,11 +36,3 @@ Team members:
 Although we can't predict exactly how many O-rings were at risk, what we can definitely infer is that the O-rings were at risk at 31 degrees Fahrenheit which led to the   tragedy. Extensive research has been conducted by various scientists over time to come with increasingly accurate models to predict values with small datasets. One such paper, specific to this dataset has been linked below. :) 
     
    https://www.ics.uci.edu/~smyth/courses/cs274/readings/draper95assessment.pdf
-  # Contributions
-   Code :-  All of us. duh!
-   
-   PPT :- Kumar, Taher
-   
-   readme :- Nitish, Aaditya
-   
-   Video :- All of us. duh!
